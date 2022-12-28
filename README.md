@@ -1,6 +1,6 @@
 # elastic-cloud-on-k8s-sandbox
 
-This is my personal Istio sandbox repository where I play around with [Elastic Cloud on Kubernetes](https://github.com/elastic/cloud-on-k8s) (ECK) by running sample configurations, testing their behaviors, and so on
+This is a sandbox repository where I play around with [Elastic Cloud on Kubernetes](https://github.com/elastic/cloud-on-k8s) (ECK) by running sample configurations, testing their behaviors, and so on
 
 <!-- TOC -->
 
